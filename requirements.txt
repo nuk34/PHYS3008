@@ -3,5 +3,3 @@ astropy
 matplotlib
 
 numpy
-
-scpipy
